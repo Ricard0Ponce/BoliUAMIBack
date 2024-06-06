@@ -1,0 +1,730 @@
+[
+    {
+        "id": 2000001,
+        "nombre": "ARTE Y CIENCIA",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000002,
+        "nombre": "CONCIENCIA",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000003,
+        "nombre": "ECOLOGIA Y ECONOMIA",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000004,
+        "nombre": "HISTORIA Y SITUACION ACTUAL DEL AGUA EN EL VALLE DE MÉXICO",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000005,
+        "nombre": "NOCIONES SOBRE COMPLEJIDAD",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000006,
+        "nombre": "TIEMPO, RITMOS BIOLOGICOS Y CULTURA",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000007,
+        "nombre": "APRENDIZAJE Y SERVICIO ",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000008,
+        "nombre": "EL CEREBRO Y SUS HORMONAS  ",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000009,
+        "nombre": "NEUROCIENCIA, EMOCIONES Y SOCIEDAD",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000010,
+        "nombre": "EVOLUCION FISICA, ORGANICA Y SOCIAL",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000011,
+        "nombre": "GEOMATICA E HIDROLOGIA",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000012,
+        "nombre": "MARCO JURIDICO PARA EL DESARRROLLO SUSTENTABLE",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000013,
+        "nombre": "POLITICAS Y GESTION DEL AGUA EN EL MUNDO",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000014,
+        "nombre": "POLITICAS Y GESTION DEL AGUA EN MEXICO",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2000015,
+        "nombre": "SECTOR FORESTAL EN MEXICO:  ASPEC. SOCIOL., ECONOM. Y BIOLOG.",
+        "credito": 8,
+        "tipo_optativa": "EXTRADIVISIONALES MULTIDISCIPLINARIA",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2100003,
+        "nombre": "METODO EXPERIMENTAL II ",
+        "credito": 9,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2100001 Y 180 CREDITOS"
+    },
+    {
+        "id": 2110018,
+        "nombre": "ELECTRICIDAD Y MAGNETISMO ELEMENTAL I",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2110020"
+    },
+    {
+        "id": 2110021,
+        "nombre": "FLUIDOS Y CALOR",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2110019"
+    },
+    {
+        "id": 2111042,
+        "nombre": "SLABORATORIO DE OPTICA",
+        "credito": 6,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2111115"
+    },
+    {
+        "id": 2111115,
+        "nombre": "FISICA EXPERIMENTAL INTERMEDIA I",
+        "credito": 6,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2100003"
+    },
+    {
+        "id": 2111153,
+        "nombre": "FISICA COMPUTACIONAL",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2131093 Y 2110020"
+    },
+    {
+        "id": 2122059,
+        "nombre": "MECANICA DE FLUIDOS",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2110020 Y 2130040"
+    },
+    {
+        "id": 2122063,
+        "nombre": "TRANSFERENCIA DE CALOR",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2122059"
+    },
+    {
+        "id": 2122086,
+        "nombre": "FUNDAMENTOS Y MODELOS DE OPTIMIZACION",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2122087,
+        "nombre": "METODOS NUMERICOS APLICADOS A LA INGENIERIA",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2130040 Y 2151105"
+    },
+    {
+        "id": 2130030,
+        "nombre": "INTRODUCCION AL PENSAMIENTO MATEMATICO",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2131092,
+        "nombre": "ECUACIONES DIFERENCIALES PARCIALES",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2131091"
+    },
+    {
+        "id": 2131108,
+        "nombre": "TEORIA DE GRUPOS",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2132074"
+    },
+    {
+        "id": 2131131,
+        "nombre": "CRIPTOGRAFIA DE CLAVE PUBLICA",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2131108"
+    },
+    {
+        "id": 2131161,
+        "nombre": "TEORIA DE GRAFICAS",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2131108"
+    },
+    {
+        "id": 2132015,
+        "nombre": "TEORIA DE JUEGOS",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 213110"
+    },
+    {
+        "id": 2132069,
+        "nombre": "CALCULO DE VARIAS VARIABLES II ",
+        "credito": 11,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "180 CREDITOS Y 2130040"
+    },
+    {
+        "id": 2140008,
+        "nombre": "TRANSFORMACIONES QUIMICAS",
+        "credito": 9,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2150004,
+        "nombre": "INTRODUCCION A LA INGENIERIA ELECTRICA",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2100001 "
+    },
+    {
+        "id": 2151035,
+        "nombre": "METODOS COMPUTACIONALES EN INGENIERIA BIOMEDICA",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "350 CREDITOS"
+    },
+    {
+        "id": 2151040,
+        "nombre": "INTERFACES PROGRAMABLES",
+        "credito": 12,
+        "tipo_optativa": "CBI",
+        "seriacion": "350 CREDITOS"
+    },
+    {
+        "id": 2151052,
+        "nombre": "VISUALIZACION POR COMPUTADORAS DE IMAGENES MEDICAS",
+        "credito": 9,
+        "tipo_optativa": "CBI",
+        "seriacion": "350 CREDITOS"
+    },
+    {
+        "id": 2151066,
+        "nombre": "CIRCUITOS ELECTRICOS I ",
+        "credito": 12,
+        "tipo_optativa": "CBI",
+        "seriacion": "180 CREDITOS Y 2150004"
+    },
+    {
+        "id": 2151074,
+        "nombre": "FUNDAMENTOS DE LOGICA DIGITAL",
+        "credito": 11,
+        "tipo_optativa": "CBI",
+        "seriacion": "238 CREDITOS"
+    },
+    {
+        "id": 2151080,
+        "nombre": "SISTEMAS CON MICROPROCESADORES I",
+        "credito": 10,
+        "tipo_optativa": "CBI",
+        "seriacion": "2151074"
+    },
+    {
+        "id": 2151117,
+        "nombre": "ALGORITMOS DISTRIBUIDOS",
+        "credito": 8,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151111"
+    },
+    {
+        "id": 2151118,
+        "nombre": "APRENDIZAJE MAQUINAL",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151113"
+    },
+    {
+        "id": 2151119,
+        "nombre": "LENGUAJES DE PROGRAMACION",
+        "credito": 11,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151105"
+    },
+    {
+        "id": 2151120,
+        "nombre": "SIMULACION DISCRETA",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "90 CREDITOS"
+    },
+    {
+        "id": 2151121,
+        "nombre": "TECNICAS HEURISTICAS BIO-INSPIRADAS EN LA OPTIMIZACION",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "105 CREDITOS"
+    },
+    {
+        "id": 2151122,
+        "nombre": "TEMAS SELECTOS DE INTELIGENCIA ARTIFICIAL",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151113"
+    },
+    {
+        "id": 2151123,
+        "nombre": "TEMAS SELECTOS DE BASES DE DATOS",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151106"
+    },
+    {
+        "id": 2151124,
+        "nombre": "TEMAS SELECTOS DE INGENIERIA DE SOFTWARE",
+        "credito": 11,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151112"
+    },
+    {
+        "id": 2151121,
+        "nombre": "TEMAS SELECTOS DE CIENCIAS DE LA COMPUTACION",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "2151114"
+    },
+    {
+        "id": 2151121,
+        "nombre": "TECNICAS HEURISTICAS BIO-INSPIRADAS EN LA OPTIMIZACION",
+        "credito": 10,
+        "tipo_optativa": "PLAN DE ESTUDIOS",
+        "seriacion": "105 CREDITOS"
+    },
+    {
+        "id": 2151130,
+        "nombre": "PROYECTO DE INVESTIGACION I BASES DE DATOS",
+        "credito": 12,
+        "tipo_optativa": "PROYECTOS INVESTIGACION BASES DE DATOS",
+        "seriacion": "2151112 Y 2151114"
+    },
+    {
+        "id": 2151131,
+        "nombre": "PROYECTO DE INVESTIGACION II BASES DE DATOS",
+        "credito": 12,
+        "tipo_optativa": "PROYECTOS INVESTIGACION BASES DE DATOS",
+        "seriacion": "2151130"
+    },
+    {
+        "id": 2151132,
+        "nombre": "PROYECTO DE INVESTIGACION I CIENCIA DE LA COMPUTACION",
+        "credito": 12,
+        "tipo_optativa": "PROYECTOS INVESTIGACION CIENCIAS DE LA COMPUTACION",
+        "seriacion": "2151112 Y 2151114"
+    },
+    {
+        "id": 2151133,
+        "nombre": "PROYECTO DE INVESTIGACION II CIENCIAS DE LA COMPUTACION",
+        "credito": 18,
+        "tipo_optativa": "PROYECTOS INVESTIGACION CIENCIAS DE LA COMPUTACION",
+        "seriacion": "2151132"
+    },
+    {
+        "id": 2151134,
+        "nombre": "PROYECTO DE INVESTIGACION I INGENIERIA DE SOFTWARE",
+        "credito": 12,
+        "tipo_optativa": "PROYECTOS INVESTIGACION INGENIERIA DE SOFTWARE",
+        "seriacion": "2151112 Y 2151114"
+    },
+    {
+        "id": 2151135,
+        "nombre": "PROYECTO DE INVESTIGACION II INGENIERIA DE SOFTWARE",
+        "credito": 18,
+        "tipo_optativa": "PROYECTOS INVESTIGACION INGENIERIA DE SOFTWARE",
+        "seriacion": "2151134"
+    },
+    {
+        "id": 2151136,
+        "nombre": "PROYECTO DE INVESTIGACION I INTELIGENCIA ARTIFICIAL",
+        "credito": 12,
+        "tipo_optativa": "PROYECTOS INVESTIGACION INTELIGENCIA ARTIFICIAL",
+        "seriacion": "2151112 Y 2151114"
+    },
+    {
+        "id": 2151137,
+        "nombre": "PROYECTO DE INVESTIGACION II INTELIGENCIA ARTIFICIAL",
+        "credito": 18,
+        "tipo_optativa": "PROYECTOS INVESTIGACION INTELIGENCIA ARTIFICIAL",
+        "seriacion": "2151136"
+    },
+    {
+        "id": 2211075,
+        "nombre": "ADMINISTRACION GENERAL",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211076,
+        "nombre": "HISTORIA GENERAL DE LA EMPRESA Y SOCIEDAD ORGANIZACIONAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211078,
+        "nombre": "TEORIA ADMINISTRATIVA",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211079,
+        "nombre": "ORGANIZACION DEL TRABAJO Y COMPORTAMIENTO HUMANO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211081,
+        "nombre": "TEORIA DE LA ORGANIZACION",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211082,
+        "nombre": "SOCIEDAD DE CONSUMO, DESARROLLO TECNOLOGICO Y COMUNICACION",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211083,
+        "nombre": "INFORMACION FINANCIERA",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211085,
+        "nombre": "COMPORTAMIENTO EN LAS ORGANIZACIONES",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211087,
+        "nombre": "CONTABILIDAD ADMINISTRATIVA",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211089,
+        "nombre": "DIRECCION Y ADMINISTRACION DE PERSONAL",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211090,
+        "nombre": "ETICA Y RESPONSABILIDAD SOCIAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211091,
+        "nombre": "FUNDAMENTOS DE POLITICA ECONOMICA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211092,
+        "nombre": "ANALISIS DE DECISIONES",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211093,
+        "nombre": "MARKETING I",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211094,
+        "nombre": "GESTION Y CONTROL ESTRATEGICOS I",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211095,
+        "nombre": "ADMINISTRACION FINANCIERA I",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211096,
+        "nombre": "MARKETING II",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211098,
+        "nombre": "ADMINISTRACION DE OPERACIONES",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2211099,
+        "nombre": "ADMINISTRACION FINANCIERA II",
+        "credito": 9,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212000,
+        "nombre": "PROBLEMAS FILOSOFICOS Y CIVILIZACION OCCIDENTAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212001,
+        "nombre": "DERECHO I",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212002,
+        "nombre": "DERECHO II",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212006,
+        "nombre": "VALUACION DE PROYECTOS",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212009,
+        "nombre": "HERRAMIENTAS CUALITATIVAS PARA EL ANALISIS DE DECISIONES",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212010,
+        "nombre": "MODELOS DE DECISION EN LA GESTION DIRECTIVA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212011,
+        "nombre": "INFORMATICA APLICADA PARA LA TOMA DE DECISIONES",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212012,
+        "nombre": "PROCESOS DE TOMA DE DECISIONES. ANALISIS DE CASOS",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212013,
+        "nombre": "LIDERAZGO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212014,
+        "nombre": "HABILIDADES DIRECTIVAS",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212015,
+        "nombre": " ADMINISTRACION DEL CAMBIO ESTRATEGICO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212016,
+        "nombre": "GESTION DEL CONOCIMIENTO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212017,
+        "nombre": "GESTION DE PROYECTOS",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212018,
+        "nombre": "SISTEMAS DE GESTION DE CALIDAD",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212019,
+        "nombre": "AUDITORIA ADMINISTRATIVA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212036,
+        "nombre": "E-MARKETING",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212038,
+        "nombre": "SISTEMA DE INFORMACION INTERNACIONAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2212039,
+        "nombre": "TENDENCIAS MUNDIALES DEL MARKETING",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2224041,
+        "nombre": "CULTURA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2224042,
+        "nombre": "MESOAMERICA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2224060,
+        "nombre": "ANTROPOLOGIA SIMBOLICA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2224084,
+        "nombre": "ANTROPOLOGIA Y GENERO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2241096,
+        "nombre": "MACROECONOMIA I",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2250035,
+        "nombre": "TEORIA Y PROBLEMAS SOCIOPOLITICOS CONTEMPORANEOS",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2250036,
+        "nombre": "HISTORIA CONTEMPORANEA DE MEXICO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2250037,
+        "nombre": "ARGUMENTACION Y CONOCIMIENTO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    },
+    {
+        "id": 2255134,
+        "nombre": "TEMAS DE HISTORIA SOCIAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS "
+    }
+]
