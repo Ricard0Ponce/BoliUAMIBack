@@ -726,5 +726,347 @@
         "credito": 8,
         "tipo_optativa": "CSH",
         "seriacion": "180 CREDITOS "
+    },{
+    "id": 2255138,
+    "nombre": "TEMAS DE HISTORIA DE MEXICO",
+    "credito": 8,
+    "tipo_optativa": "CSH",
+    "seriacion": "180 CREDITOS"
+},
+    {
+        "id": 2255183,
+        "nombre": "PRACTICAS DE LECTURA Y REDACCION",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2255254,
+        "nombre": "TEMAS SELECTOS DE LETRAS HISPANICAS I",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2255302,
+        "nombre": "INTRODUCCION A LA FILOSOFIA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2255303,
+        "nombre": "ETICA I",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2255305,
+        "nombre": "ETICA II",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "2255303"
+    },
+    {
+        "id": 2255363,
+        "nombre": "LENGUAJE Y CULTURA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2255413,
+        "nombre": "INTRODUCCION AL LENGUAJE",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2281061,
+        "nombre": "GENESIS Y ESTRUCTURA DEL SENTIDO COMUN",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2281066,
+        "nombre": "METODOS DE CONDUCCION E INTERVENCION GRUPAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2281122,
+        "nombre": "PSICOLOGIA POLITICA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2292102,
+        "nombre": "FORMACION SOCIAL MEXICANA I",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293011,
+        "nombre": "INTRODUCCION A LA SOCIOLOGIA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293037,
+        "nombre": "GEOGRAFIA DE MEXICO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293039,
+        "nombre": "GEOGRAFIA DEL TURISMO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293044,
+        "nombre": "PENSAMIENTO AMBIENTALISTA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293046,
+        "nombre": "MAPA AMBIENTAL DE MEXICO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293055,
+        "nombre": "ORDENAMIENTO TERRITORIAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293058,
+        "nombre": "ANTROPOLOGIA URBANA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293089,
+        "nombre": "SOCIOLOGIA DEL TRABAJO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2293096,
+        "nombre": "SOCIOLOGIA DE LOS MOVIMIENTOS SOCIALES",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294001,
+        "nombre": "DIDACTICA DE LA EDUCACION EN MATERIA SOCIAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294002,
+        "nombre": "SOCIOLOGIA DE LA POBLACION",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294003,
+        "nombre": "SOCIOLOGIA RURAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294004,
+        "nombre": "SOCIOLOGIA POLITICA",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294006,
+        "nombre": "SOCIOLOGIA DE LA GLOBALIZACION",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294008,
+        "nombre": "SOCIOLOGIA AMBIENTAL",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2294009,
+        "nombre": "SOCIOLOGIA DE GENERO",
+        "credito": 8,
+        "tipo_optativa": "CSH",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312057,
+        "nombre": "CLIMATOLOGIA",
+        "credito": 6,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312061,
+        "nombre": "EVOLUCION",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312063,
+        "nombre": "ECOLOGIA I",
+        "credito": 10,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312064,
+        "nombre": "ECOLOGIA II",
+        "credito": 10,
+        "tipo_optativa": "CBS",
+        "seriacion": "2312063"
+    },
+    {
+        "id": 2312065,
+        "nombre": "BIOGEOGRAFIA",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312079,
+        "nombre": "TENDENCIAS EVOLUTIVAS EN INVERTEBRADOS I",
+        "credito": 11,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312080,
+        "nombre": "TENDENCIAS EVOLUTIVAS EN INVERTEBRADOS II",
+        "credito": 11,
+        "tipo_optativa": "CBS",
+        "seriacion": "2312079"
+    },
+    {
+        "id": 2312083,
+        "nombre": "COMPORTAMIENTO ANIMAL",
+        "credito": 9,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312087,
+        "nombre": "BIOCONSERVACION",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312089,
+        "nombre": "ECOLOGIA EVOLUTIVA",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312090,
+        "nombre": "ECOLOGIA URBANA",
+        "credito": 11,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2312092,
+        "nombre": "METODOS DE MUESTREO",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2321059,
+        "nombre": "INTRODUCCION A LOS SISTEMAS DE INFORMACION GEOGRAFICA",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2321064,
+        "nombre": "TALLER DE BIOMETRIA AGROPECUARIA I",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2321066,
+        "nombre": "TALLER DE BIOMETRIA AGROPECUARIA II",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2331078,
+        "nombre": "GESTION Y CONTROL DE CALIDAD",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2331082,
+        "nombre": "INGENIERIA DE ALIMENTOS I",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2331083,
+        "nombre": "INGENIERIA DE ALIMENTOS II",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "2331082"
+    },
+    {
+        "id": 2331084,
+        "nombre": "INGENIERIA DE ALIMENTOS III",
+        "credito": 8,
+        "tipo_optativa": "CBS",
+        "seriacion": "2331083"
+    },
+    {
+        "id": 2331093,
+        "nombre": "BIOQUIMICA DE LA NUTRICION ",
+        "credito": 10,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
+    },
+    {
+        "id": 2352038,
+        "nombre": "GENETICA",
+        "credito": 11,
+        "tipo_optativa": "CBS",
+        "seriacion": "180 CREDITOS"
     }
 ]
